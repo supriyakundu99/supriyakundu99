@@ -49,12 +49,6 @@ Welcome to my GitHub profile! I’m a passionate Software Developer with experie
 
 ---
 
-### 📊 GitHub Stats:
-
-![Supriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
 ### 📝 Publications:
 - **Modeling and Prediction of COVID-19 Cases in India**
 - **Visualizing Representations and Predictions of the Trends of 2019-Novel Corona Virus Outbreak in India using SVR Models**
