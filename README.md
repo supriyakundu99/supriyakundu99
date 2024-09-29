@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hello! I'm Supriya Kundu 👋
+- 📫 How to reach me: https://www.linkedin.com/in/supriyakundu99/
+
 
 <!--
 **supriyakundu99/supriyakundu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
